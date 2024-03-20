@@ -6,9 +6,10 @@
 //
 
 import UIKit
-
+/// Задача на добавление таймера в runloop
 final class Task2: UIViewController {
-
+    // MARK: Life Cycle
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Создаем и запускаем поток с таймером
@@ -16,8 +17,7 @@ final class Task2: UIViewController {
         timer.start()
     }
 
-
-    class TimerThread: Thread {
+    final class TimerThread: Thread {
         private var timerDuration: Int
         private var timer: Timer!
 

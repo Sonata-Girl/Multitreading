@@ -6,9 +6,10 @@
 //
 
 import UIKit
-
+/// Задача на порядок выполнения
 final class Task6: UIViewController {
 
+    // MARK: Life Cycle
     // A C B
     // Потому что мы положили исполнение блока на мейн поток,а она серийная очередь, исполнится когда закончит блок sync
     override func viewDidLoad() {

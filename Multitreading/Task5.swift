@@ -6,12 +6,15 @@
 //
 
 import UIKit
-
+/// Задача на синхронизацию очередей
 final class Task5: UIViewController {
+
+    // MARK: Private Properties
 
     private var name = "Введите имя"
     private let lock = DispatchQueue(label: "name.lock.queue")
 
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -39,8 +42,9 @@ final class Task5: UIViewController {
 //        print(Thread.current)
 //        print(self.name) // из main
 //    }
+    // MARK: Private Methods
 
-    func updateName() {
+    private func updateName() {
         DispatchQueue.global().async {
             self.lock.async {
                 self.name = "I love RM"

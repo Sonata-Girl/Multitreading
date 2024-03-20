@@ -70,8 +70,8 @@
 			children = (
 				676593E52BA8B79C00F7A6C1 /* AppDelegate.swift */,
 				676593E72BA8B79C00F7A6C1 /* SceneDelegate.swift */,
-				676593E92BA8B79C00F7A6C1 /* Task2.swift */,
 				676593F92BA8F56B00F7A6C1 /* Task1.swift */,
+				676593E92BA8B79C00F7A6C1 /* Task2.swift */,
 				676593FB2BA9E3F200F7A6C1 /* Task3.swift */,
 				676593FD2BA9FB2100F7A6C1 /* Task4.swift */,
 				676593FF2BAA038B00F7A6C1 /* Task5.swift */,

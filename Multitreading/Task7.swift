@@ -6,9 +6,10 @@
 //
 
 import UIKit
-
+/// Задача решение проблемы 
 final class Task7: UIViewController {
 
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         print(2)

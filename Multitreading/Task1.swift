@@ -6,9 +6,10 @@
 //
 
 import UIKit
-
+/// Задача на перевод с одного потока на другой
 final class Task1: UIViewController {
 
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -19,7 +20,6 @@ final class Task1: UIViewController {
                 print("1, Current thread: \(currentThread)")
             }
         }
-
 
         for _ in (0..<10) {
             let currentThread = Thread.current

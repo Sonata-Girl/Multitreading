@@ -6,10 +6,13 @@
 //
 
 import UIKit
-
+/// Задача решение проблемы data race
 final class Task8: UIViewController {
+    
+    // MARK: Private Properties
     private lazy var name = "I love RM"
 
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
 

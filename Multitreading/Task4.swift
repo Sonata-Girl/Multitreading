@@ -6,9 +6,10 @@
 //
 
 import UIKit
-
+/// Задача на работу с приоритетами потоков
 final class Task4: UIViewController {
 
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -33,7 +34,7 @@ final class Task4: UIViewController {
 
     }
 
-    class ThreadPrintDemon: Thread {
+    final class ThreadPrintDemon: Thread {
         override func main() {
             for _ in 0..<100 {
                 print("1")
@@ -41,7 +42,7 @@ final class Task4: UIViewController {
         }
     }
 
-    class ThreadPrintAngel: Thread {
+    final class ThreadPrintAngel: Thread {
         override func main() {
             for _ in 0..<100 {
                 print("2")
