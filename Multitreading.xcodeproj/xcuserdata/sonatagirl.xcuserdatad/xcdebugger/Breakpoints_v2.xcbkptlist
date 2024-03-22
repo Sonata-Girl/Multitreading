@@ -244,5 +244,69 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78462680-71BD-4297-BD8E-23BF0A29AFF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/Task10.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "doJobs(postNumbers:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3B85F9-D3D2-4EC7-9E9B-690829E30725"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/Task10.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C3B85F9-D3D2-4EC7-9E9B-690829E30725 - 8ece3b3c621f04c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.Task10.viewDidLoad() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task10.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "8C3B85F9-D3D2-4EC7-9E9B-690829E30725 - 55342f0ed35837f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Multitreading.Post&gt;) -&gt; () in Multitreading.Task10.viewDidLoad() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task10.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

@@ -19,6 +19,15 @@
 		676594022BAA19BC00F7A6C1 /* Task6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676594012BAA19BC00F7A6C1 /* Task6.swift */; };
 		676594042BAA1AEF00F7A6C1 /* Task7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676594032BAA1AEF00F7A6C1 /* Task7.swift */; };
 		676594062BAA1C2300F7A6C1 /* Task8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676594052BAA1C2300F7A6C1 /* Task8.swift */; };
+		67B026802BAB6F990036B235 /* Task9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B0267F2BAB6F990036B235 /* Task9.swift */; };
+		67B026822BAC39DA0036B235 /* DispatchGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B026812BAC39D90036B235 /* DispatchGroup.swift */; };
+		67DB4AC92BAC84420079B5D5 /* Task11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4AC82BAC84420079B5D5 /* Task11.swift */; };
+		67DB4ACB2BACA1BF0079B5D5 /* Task12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4ACA2BACA1BF0079B5D5 /* Task12.swift */; };
+		67DB4ACD2BACA2DA0079B5D5 /* Task13DispatchWorkItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4ACC2BACA2DA0079B5D5 /* Task13DispatchWorkItem.swift */; };
+		67DB4ACF2BACC75C0079B5D5 /* Task14Sendable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4ACE2BACC75C0079B5D5 /* Task14Sendable.swift */; };
+		67DB4AD12BACDC260079B5D5 /* Task15Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4AD02BACDC260079B5D5 /* Task15Operation.swift */; };
+		67DB4AD32BACEE870079B5D5 /* Task16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4AD22BACEE870079B5D5 /* Task16.swift */; };
+		67DB4AD52BAD7A740079B5D5 /* Task17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DB4AD42BAD7A740079B5D5 /* Task17.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +45,15 @@
 		676594012BAA19BC00F7A6C1 /* Task6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task6.swift; sourceTree = "<group>"; };
 		676594032BAA1AEF00F7A6C1 /* Task7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task7.swift; sourceTree = "<group>"; };
 		676594052BAA1C2300F7A6C1 /* Task8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task8.swift; sourceTree = "<group>"; };
+		67B0267F2BAB6F990036B235 /* Task9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task9.swift; sourceTree = "<group>"; };
+		67B026812BAC39D90036B235 /* DispatchGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchGroup.swift; sourceTree = "<group>"; };
+		67DB4AC82BAC84420079B5D5 /* Task11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task11.swift; sourceTree = "<group>"; };
+		67DB4ACA2BACA1BF0079B5D5 /* Task12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task12.swift; sourceTree = "<group>"; };
+		67DB4ACC2BACA2DA0079B5D5 /* Task13DispatchWorkItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task13DispatchWorkItem.swift; sourceTree = "<group>"; };
+		67DB4ACE2BACC75C0079B5D5 /* Task14Sendable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task14Sendable.swift; sourceTree = "<group>"; };
+		67DB4AD02BACDC260079B5D5 /* Task15Operation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task15Operation.swift; sourceTree = "<group>"; };
+		67DB4AD22BACEE870079B5D5 /* Task16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task16.swift; sourceTree = "<group>"; };
+		67DB4AD42BAD7A740079B5D5 /* Task17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task17.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +96,15 @@
 				676594012BAA19BC00F7A6C1 /* Task6.swift */,
 				676594032BAA1AEF00F7A6C1 /* Task7.swift */,
 				676594052BAA1C2300F7A6C1 /* Task8.swift */,
+				67B0267F2BAB6F990036B235 /* Task9.swift */,
+				67B026812BAC39D90036B235 /* DispatchGroup.swift */,
+				67DB4AC82BAC84420079B5D5 /* Task11.swift */,
+				67DB4ACA2BACA1BF0079B5D5 /* Task12.swift */,
+				67DB4ACC2BACA2DA0079B5D5 /* Task13DispatchWorkItem.swift */,
+				67DB4ACE2BACC75C0079B5D5 /* Task14Sendable.swift */,
+				67DB4AD02BACDC260079B5D5 /* Task15Operation.swift */,
+				67DB4AD22BACEE870079B5D5 /* Task16.swift */,
+				67DB4AD42BAD7A740079B5D5 /* Task17.swift */,
 				676593EE2BA8B79D00F7A6C1 /* Assets.xcassets */,
 				676593F02BA8B79D00F7A6C1 /* LaunchScreen.storyboard */,
 				676593F32BA8B79D00F7A6C1 /* Info.plist */,
@@ -156,15 +183,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				676594042BAA1AEF00F7A6C1 /* Task7.swift in Sources */,
+				67DB4AD32BACEE870079B5D5 /* Task16.swift in Sources */,
 				676594062BAA1C2300F7A6C1 /* Task8.swift in Sources */,
+				67B026802BAB6F990036B235 /* Task9.swift in Sources */,
 				676593EA2BA8B79C00F7A6C1 /* Task2.swift in Sources */,
 				676593FC2BA9E3F200F7A6C1 /* Task3.swift in Sources */,
 				676594002BAA038B00F7A6C1 /* Task5.swift in Sources */,
 				676593E62BA8B79C00F7A6C1 /* AppDelegate.swift in Sources */,
+				67DB4ACB2BACA1BF0079B5D5 /* Task12.swift in Sources */,
+				67B026822BAC39DA0036B235 /* DispatchGroup.swift in Sources */,
 				676593FE2BA9FB2100F7A6C1 /* Task4.swift in Sources */,
+				67DB4AD12BACDC260079B5D5 /* Task15Operation.swift in Sources */,
+				67DB4AD52BAD7A740079B5D5 /* Task17.swift in Sources */,
 				676593E82BA8B79C00F7A6C1 /* SceneDelegate.swift in Sources */,
 				676593FA2BA8F56B00F7A6C1 /* Task1.swift in Sources */,
+				67DB4AC92BAC84420079B5D5 /* Task11.swift in Sources */,
+				67DB4ACD2BACA2DA0079B5D5 /* Task13DispatchWorkItem.swift in Sources */,
 				676594022BAA19BC00F7A6C1 /* Task6.swift in Sources */,
+				67DB4ACF2BACC75C0079B5D5 /* Task14Sendable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
