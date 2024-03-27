@@ -13,23 +13,26 @@ final class Task3_stars6: UIViewController {
         super.viewDidLoad()
         let group = DispatchGroup()
 
-        let groupQueue = DispatchQueue(label: "group")
+        let groupQueue = DispatchQueue(label: "group", attributes: .concurrent)
 
         group.enter()
         groupQueue.async() {
             self.fetchData()
+            group.leave()
+
         }
-        group.leave()
+        group.enter()
         groupQueue.async() {
             self.decodeData()
+            group.leave()
         }
 
         group.enter()
         groupQueue.async() {
             self.modifyData()
+            group.leave()
         }
-        group.leave()
-        
+
         group.wait()
         group.notify(queue: .main) {
             self.showData()
