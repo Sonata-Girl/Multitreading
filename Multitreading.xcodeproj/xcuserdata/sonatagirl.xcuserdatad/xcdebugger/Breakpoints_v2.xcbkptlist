@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92D7F0A1-CA6C-45E3-AC18-E526EC1ADF17"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3419224C-2B56-45D8-B742-054DA76DC69E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3419224C-2B56-45D8-B742-054DA76DC69E - 9d41dc20448ecfc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.Task2.viewDidLoad() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "3419224C-2B56-45D8-B742-054DA76DC69E - 422216a4690733c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F6E628E-35D1-48A8-B8A8-E7643C9D52CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "updateTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F6E628E-35D1-48A8-B8A8-E7643C9D52CF - 6051ab4b7a270c6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.ViewController.TimerThread.updateTimer() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "2F6E628E-35D1-48A8-B8A8-E7643C9D52CF - 6051ab4b7a270d8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.ViewController.TimerThread.updateTimer() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AF8E2AD-DDAC-4212-98AD-9E2AA214EEA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AF8E2AD-DDAC-4212-98AD-9E2AA214EEA2 - 6051ab4b7a270d32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.ViewController.TimerThread.updateTimer() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "5AF8E2AD-DDAC-4212-98AD-9E2AA214EEA2 - 6051ab4b7a270d32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.ViewController.TimerThread.updateTimer() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C5EB19F-ECE0-4988-BF74-970FB350F324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/Task5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "Task5"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6C5EB19F-ECE0-4988-BF74-970FB350F324 - 4ee6421bfb73af50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Multitreading.Task5.updateName() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6C5EB19F-ECE0-4988-BF74-970FB350F324 - b25429805813607a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Multitreading.Task5.updateName() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C97190B6-E527-4095-9D51-47E6061F64C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multitreading/Task5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "Task5"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C97190B6-E527-4095-9D51-47E6061F64C3 - d31ecd3db1a19f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.Task5.updateName() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "C97190B6-E527-4095-9D51-47E6061F64C3 - d31ecd3db1a19f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multitreading.Task5.updateName() -&gt; ()"
+                  moduleName = "Multitreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonatagirl/SwiftIOS/$$WorkProjects/TheSwiftDevelopers/Multitreading/Multitreading/Task5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
